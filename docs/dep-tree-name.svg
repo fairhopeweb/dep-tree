@@ -1,17 +1,1 @@
-<svg
-    width="68"
-    height="18"
-    xmlns="http://www.w3.org/2000/svg"
->
-  <text
-    x="0"
-    y="14"
-    style="
-      font-weight:bold;
-      font-family:sans-serif;
-      fill:#eee
-    "
-  >
-    Dep Tree
-  </text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="68" height="18"><text x="0" y="14" style="font-weight:700;font-family:sans-serif;fill:#eee">Dep Tree</text></svg>
